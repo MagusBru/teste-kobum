@@ -34,8 +34,7 @@ main:after {
     font-family: Georgia, 'Times New Roman', Times, serif;         
     color: #ffffff;
     -webkit-text-fill-color: #ffffff;
-    -webkit-text-stroke: #000000;    
-    -webkit-text-stroke-color: rgb(10, 10, 10); 
+    text-shadow: 2px 2px 0 black;
     border-color: #ffffff;
     text-align: justify; 
     font-size: 14px;    
